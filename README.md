@@ -3,4 +3,4 @@ This is an attempt to update the EOSS High altitude balloon tracker to run on mo
 
 # Installation
 ## Terminal Commands
-sudo apt install npm
+

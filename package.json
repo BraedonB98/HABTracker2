@@ -1,0 +1,11 @@
+{
+  "name": "habtracker2-backend",
+  "version": "1.0.0",
+  "description": "backend software for habtracker2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Braedon Bellamy",
+  "license": "ISC"
+}
